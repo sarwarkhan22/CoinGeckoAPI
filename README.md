@@ -9,3 +9,5 @@
 *Newman Report for all APIs is attached in -> newman-Report.html
 
 *Summary of case study is present in -> Case study Report.pdf
+
+*Newman integration with Jenkins and execution of Apis using CI/CD pipeline -> Jenkins Pipeline API Execution.pdf
