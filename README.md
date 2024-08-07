@@ -1,3 +1,5 @@
+**CoinGecko API offers the most comprehensive and reliable crypto market data through RESTful JSON endpoints.**
+
 *Postman collection is present in -> ApiCollection.json
 
 *Postman Environment Variables are present in -> coinGecko.postman_environment.json
